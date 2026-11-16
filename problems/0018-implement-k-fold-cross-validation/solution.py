@@ -17,7 +17,8 @@ def k_fold_cross_validation(n_samples: int, k: int = 5, shuffle: bool = True) ->
         left = []
         right = []
         new_arr = arr
-        if(dif!=0): n+=1
+        if(dif!=0):
+            n+=1
             
         for j in range(m,n):
             left.append(arr[j])
