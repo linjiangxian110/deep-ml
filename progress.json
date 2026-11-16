@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T12:24:42.126Z",
+  "generated_at": "2026-11-16T12:33:42.204Z",
   "items": {
     "problem:10": {
       "kind": "problem",
@@ -52,6 +52,19 @@
       "last_pushed_at": "2026-11-16T12:25:01.382Z",
       "language": "python",
       "lines": 14
+    },
+    "problem:52": {
+      "kind": "problem",
+      "id": "52",
+      "title": "Implement Recall Metric in Binary Classification",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/52",
+      "path": "problems/0052-implement-recall-metric-in-binary-classification",
+      "first_solved_at": "2026-11-16T12:34:01.643Z",
+      "last_pushed_at": "2026-11-16T12:34:01.643Z",
+      "language": "python",
+      "lines": 17
     }
   }
 }
