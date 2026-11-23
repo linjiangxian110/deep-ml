@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T13:32:13.886Z",
+  "generated_at": "2026-11-23T13:09:52.063Z",
   "items": {
     "problem:10": {
       "kind": "problem",
@@ -89,6 +89,19 @@
       "path": "problems/0072-calculate-jaccard-index-for-binary-classification",
       "first_solved_at": "2026-11-16T13:32:33.104Z",
       "last_pushed_at": "2026-11-16T13:32:33.104Z",
+      "language": "python",
+      "lines": 24
+    },
+    "problem:75": {
+      "kind": "problem",
+      "id": "75",
+      "title": "Generate a Confusion Matrix for Binary Classification",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/75",
+      "path": "problems/0075-generate-a-confusion-matrix-for-binary-classification",
+      "first_solved_at": "2026-11-23T13:09:51.548Z",
+      "last_pushed_at": "2026-11-23T13:09:51.548Z",
       "language": "python",
       "lines": 24
     }
