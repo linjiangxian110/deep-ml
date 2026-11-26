@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**14** solved · 14 problems · 0 labs · 0 math
+**15** solved · 15 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -16,6 +16,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Calculate Accuracy Score](https://www.deep-ml.com/problems/36) | easy | 2026-11-16 | [solution](problems/0036-calculate-accuracy-score) |
 | [Calculate Covariance Matrix](https://www.deep-ml.com/problems/10) | easy | 2026-11-16 | [solution](problems/0010-calculate-covariance-matrix) |
 | [Calculate Jaccard Index for Binary Classification](https://www.deep-ml.com/problems/72) | easy | 2026-11-16 | [solution](problems/0072-calculate-jaccard-index-for-binary-classification) |
+| [Calculate R-squared for Regression Analysis](https://www.deep-ml.com/problems/69) | easy | 2026-11-26 | [solution](problems/0069-calculate-r-squared-for-regression-analysis) |
 | [Descriptive Statistics Calculator](https://www.deep-ml.com/problems/78) | easy | 2026-11-23 | [solution](problems/0078-descriptive-statistics-calculator) |
 | [Generate a Confusion Matrix for Binary Classification](https://www.deep-ml.com/problems/75) | easy | 2026-11-23 | [solution](problems/0075-generate-a-confusion-matrix-for-binary-classification) |
 | [Implement F-Score Calculation for Binary Classification](https://www.deep-ml.com/problems/61) | easy | 2026-11-16 | [solution](problems/0061-implement-f-score-calculation-for-binary-classification) |
