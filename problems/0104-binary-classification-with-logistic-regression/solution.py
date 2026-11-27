@@ -14,7 +14,6 @@ def predict_logistic(X: np.ndarray, weights: np.ndarray, bias: float) -> np.ndar
     """
     m = X.shape[0]
 
-    weights_T = weights.T
     result = X @ weights + bias
     result = result.T 
 
